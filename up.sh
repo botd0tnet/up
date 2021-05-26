@@ -17,5 +17,5 @@ do
 	sleep 15
 done
 printf "\n\n"
-printf "DONE 1"
+printf "DONE !"
 printf "\n\n"
